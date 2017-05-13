@@ -1,0 +1,3 @@
+describe Prognosium do
+  
+end
